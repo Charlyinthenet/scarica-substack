@@ -1,0 +1,5 @@
+scrollinginfinito_pdf/
+scrollinginfinito_md/
+__pycache__/
+*.pyc
+.DS_Store
